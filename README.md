@@ -5,7 +5,7 @@
 Code detects the problems. AI explains them. A validation layer guarantees the AI never invents a finding.
 
 > 🎥 **Demo:** _[60s video — add on Day 7]_
-> 🔗 **Live:** _[vercel URL — add on Day 1]_
+> 🔗 **Live:** https://site-xray-bg.vercel.app
 > ![demo](docs/demo.gif) _(add on Day 7)_
 
 ---
