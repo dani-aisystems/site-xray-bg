@@ -29,7 +29,7 @@ export const mockAudit: Audit = {
     {
       id: "https",
       pass: true,
-      severity: "high",
+      severity: "medium",
       evidence: "Сайтът е на защитена връзка (https)",
       fallbackTextBg: "Сайтът използва защитена връзка.",
     },
@@ -43,7 +43,7 @@ export const mockAudit: Audit = {
     {
       id: "contact_cta",
       pass: false,
-      severity: "medium",
+      severity: "high",
       evidence: "Няма форма, връзка за резервация или бутон за контакт",
       fallbackTextBg: "Няма ясен начин за връзка или резервация.",
     },
